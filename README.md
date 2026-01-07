@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
+![Pandas](https://img.shields.io/badge/Pandas-DataFrame-150458?logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Array-013243?logo=numpy)
+
 # Dongjakgu_data_analysis
 동작구 2020 빅데이터 활용 정책 공모전
 
